@@ -1,1 +1,3 @@
-"# vision_algorithms_for_mobile_robotics" 
+Vision Algorithms for Mobile Robotics
+ETH Zurich Fall Semester 2021
+Prof. Scaramuzza Davide
